@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zillurcse
-- 👀 I’m interested in ...
+- 👀 I’m interested in new technology
 - 🌱 I’m currently working in EXPOUSE as a Software Engineer
 - 💞️ I’m looking to collaborate on Opensource Tools
 - 📫 How to reach me ...
