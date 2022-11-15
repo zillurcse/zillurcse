@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @zillurcse
+Greetings, I’m Zillur. I am webdeveloperhavingmorethan4 yearsofworkingexperienceinwebindustryasaSoftware an Engineer. I am a fan of technology, programming, and travel. I’m also interested in volunteering and having fun. I undergraduate from Eastern University. I have always wanted to go into AI Engineering but wasn't able to attend due to some reasons and now I am willing to work hard to get more explore.
+
 - 👀 I’m interested in new technology
 - 🌱 I’m currently working in EXPOUSE as a Software Engineer
 - 💞️ I’m looking to collaborate on Opensource Tools
