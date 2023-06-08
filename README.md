@@ -1,4 +1,4 @@
-Greetings, I’m Zillur. I am webdeveloperhavingmorethan4 yearsofworkingexperienceinwebindustryasaSoftware an Engineer. I am a fan of technology, programming, and travel. I’m also interested in volunteering and having fun. I undergraduate from Eastern University. I have always wanted to go into AI Engineering but wasn't able to attend due to some reasons and now I am willing to work hard to get more explore.
+Greetings, I’m Zillur. I am webdeveloper having more than 5 years of working experience in web industry as a Software an Engineer. I am a fan of technology, programming, and travel. I’m also interested in volunteering and having fun. I undergraduate from Eastern University. I have always wanted to go into Big Data Engineering but wasn't able to attend due to some reasons and now I am willing to work hard to get more explore.
 
 - 👀 I’m interested in new technology
 - 🌱 I’m currently working in EXPOUSE as a Software Engineer
